@@ -38,3 +38,11 @@ My script logs the files and folders to the android device. Move this file to yo
 7. Run `backup-android.bat`
 8. Your backup will run
 9. Copy data you want to save from Android folder manually
+
+#### Resources
+
+- https://www.tutorialspoint.com/batch_script/batch_script_if_else_statement.htm
+- https://www.youtube.com/watch?v=fu2S4MjA6A8
+- https://www.makeuseof.com/tag/write-simple-batch-bat-file/
+- https://www.tutorialspoint.com/batch_script/batch_script_logging.htm
+- https://ss64.com/nt/for.html
